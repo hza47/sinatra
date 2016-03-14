@@ -17,6 +17,8 @@ Sinatra was designed and developed by Blake Mizerany in California.
 
 ### Thanks
 
+Hao
+
 Sinatra would not have been possible without strong company backing.
 In the past, financial and emotional support have been provided mainly by
 [Heroku](http://heroku.com), [GitHub](https://github.com) and
